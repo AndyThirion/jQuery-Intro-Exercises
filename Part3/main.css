@@ -1,0 +1,21 @@
+.giant-button {
+	padding: 20% 10%;
+	font-size: 4em;
+	background: papayawhip;
+	margin: 10% auto;
+	display: block;
+}
+
+.popup {
+	position: fixed;
+	top: 5%;
+	left: 5%;
+	right: 5%;
+	font-size: 2.5rem;
+	background: pink;
+}
+
+.close-popup {
+	display: block;
+	margin: 0 auto 5% auto;
+}
